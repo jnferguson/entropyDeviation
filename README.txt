@@ -58,3 +58,4 @@ and a PDF document that describes everything in detail that doesn't
 have to overly worry a whole lot about your particular environment for 
 viewing the data. Cheers.
  
+ (beware the words of evil profiteers, all they care about is money. Herndon provided an answer years before development on the problem begun, deemed stupid and irrelevant, useless.)
